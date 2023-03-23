@@ -17,3 +17,10 @@ if want to change origion/wrongly pushed (already exists)
 to check what origion is there now
 
 7. git remote -v
+
+Ctrl+L to clear terminal
+
+to make it a website absolutely free
+
+go to setting in github>pages> select the branch and save
+now go to actions.
