@@ -1,0 +1,19 @@
+git is not github
+git is a tool /softwar
+github is a website
+used for SCM= source code management
+commands to keep the code on  github for the first time
+1. git init
+2. git remote add origion <repo_link>
+3. git add .         //staging
+4. git commit -m "message"          //commiting
+5. git push origion <branchname>  // branch name is usually master
+
+onwards use 3-5 to push code
+if want to change origion/wrongly pushed (already exists)
+
+6. git remote set-url <repo-link>
+
+to check what origion is there now
+
+7. git remote -v
